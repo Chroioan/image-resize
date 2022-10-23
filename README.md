@@ -6,7 +6,7 @@ resize an image to use it us a profile picture on GitHub
 
 #Open Terminal and go to directory ...\Image_Resize-main. 
 
-#Type the command -> python resize_img.py in/ 500 400 out/. 
+#Type the command -> python func.py in/ 500 400 out/. 
 
 The first time you run it:
 1) inside the folder will create a direcorty with the name of "in"
