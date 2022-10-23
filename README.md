@@ -3,9 +3,12 @@ resize an image to use it us a profile picture on GitHub
 
 
 #Copy the folder \Image_Resize-main on a directory. 
+
 #Open Terminal and go to directory ...\Image_Resize-main. 
+
 #Type the command -> python resize_img.py in/ 500 400 out/. 
-the first time you run it:
+
+The first time you run it:
 1) inside the folder will create a direcorty with the name of "in"
 2) also a direcotry with the name of "out"
 3) the message apears "no such a file in direcotry"
