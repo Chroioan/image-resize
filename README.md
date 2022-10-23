@@ -2,7 +2,7 @@
 resize an image to use it us a profile picture on GitHub
 
 
-#Copy the folder \Image_Resize-main on a directory. 
+#Copy the folder \image-resize-main on a directory. 
 
 #Open Terminal and go to directory ...\image-resize-main. 
 
